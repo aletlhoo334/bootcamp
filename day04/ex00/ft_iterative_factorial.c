@@ -6,7 +6,7 @@
 /*   By: aletlhoo <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/12 09:31:19 by aletlhoo          #+#    #+#             */
-/*   Updated: 2020/07/12 13:26:16 by aletlhoo         ###   ########.fr       */
+/*   Updated: 2020/07/13 15:11:05 by aletlhoo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,10 +25,5 @@ int ft_interative_factorial(int nb)
 	{
 		return (0);
 	}
-}
-int main( )
-{
-	ft_interative_factorial(0);
-	return(0);
 }
 
