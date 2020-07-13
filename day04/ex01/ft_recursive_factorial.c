@@ -6,7 +6,7 @@
 /*   By: aletlhoo <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/13 14:36:46 by aletlhoo          #+#    #+#             */
-/*   Updated: 2020/07/13 14:47:23 by aletlhoo         ###   ########.fr       */
+/*   Updated: 2020/07/13 15:15:49 by aletlhoo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,9 +24,4 @@ int ft_recursive_factorial(int nb)
 {
 	return (0);
 }
-}
-int main()
-{
-	ft_recursive_factorial(1);
-	return (0);
 }
